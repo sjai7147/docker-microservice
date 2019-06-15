@@ -1,0 +1,14 @@
+D:\Blog\Docker\Person.api\bin\Debug\netcoreapp2.2\Person.api.deps.json
+D:\Blog\Docker\Person.api\bin\Debug\netcoreapp2.2\Person.api.runtimeconfig.json
+D:\Blog\Docker\Person.api\bin\Debug\netcoreapp2.2\Person.api.runtimeconfig.dev.json
+D:\Blog\Docker\Person.api\bin\Debug\netcoreapp2.2\Person.api.dll
+D:\Blog\Docker\Person.api\bin\Debug\netcoreapp2.2\Person.api.pdb
+D:\Blog\Docker\Person.api\obj\Debug\netcoreapp2.2\Person.api.csprojAssemblyReference.cache
+D:\Blog\Docker\Person.api\obj\Debug\netcoreapp2.2\Person.api.csproj.CoreCompileInputs.cache
+D:\Blog\Docker\Person.api\obj\Debug\netcoreapp2.2\Person.api.RazorAssemblyInfo.cache
+D:\Blog\Docker\Person.api\obj\Debug\netcoreapp2.2\Person.api.RazorAssemblyInfo.cs
+D:\Blog\Docker\Person.api\obj\Debug\netcoreapp2.2\Person.api.AssemblyInfoInputs.cache
+D:\Blog\Docker\Person.api\obj\Debug\netcoreapp2.2\Person.api.AssemblyInfo.cs
+D:\Blog\Docker\Person.api\obj\Debug\netcoreapp2.2\Person.api.RazorTargetAssemblyInfo.cache
+D:\Blog\Docker\Person.api\obj\Debug\netcoreapp2.2\Person.api.dll
+D:\Blog\Docker\Person.api\obj\Debug\netcoreapp2.2\Person.api.pdb
